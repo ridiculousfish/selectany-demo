@@ -1,3 +1,3 @@
 #include "test.h"
 
-__attribute__ ((selectany)) foo f;
+__attribute__ ((weak)) foo f;
